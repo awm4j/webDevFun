@@ -49,18 +49,18 @@
                                   "https://media.giphy.com/media/H1HD23YaZqLRK/giphy.gif",
                                   "http://ak-hdl.buzzfed.com/static/2014-08/20/13/enhanced/webdr06/anigif_enhanced-28363-1408555408-35.gif",
                                   "https://bookishandawesome.files.wordpress.com/2015/03/emma-stone-03.gif?w=400&h=225",
-								  "http://i.giphy.com/dYM1bHuaLiquQ.gif",
-								  "http://i.giphy.com/2DJs60IBNYZqM.gif",
-								  "http://i.giphy.com/WQiutu8TgrdHq.gif",
-								  "http://i.giphy.com/7FqjJlEcDbx1C.gif",
-								  "http://i.giphy.com/gUYoxJBAEq4kE.gif",
-								  "http://i.giphy.com/IQ7h5TiVXJWc8.gif",
-								  "http://i.giphy.com/JHZnobRBLWIcE.gif",
-								  "http://i.giphy.com/sY7e3IbqdADWE.gif",
-								  "http://i.giphy.com/FkqkHAhFkH2Rq.gif",
-								  "http://i.giphy.com/CSF4vlifBruwM.gif",
-								  "http://i.giphy.com/N6RImS22bTwyc.gif",
-								  "http://i.giphy.com/C6mpEBnVlzPIQ.gif");
+								  "https://i.giphy.com/dYM1bHuaLiquQ.gif",
+								  "https://i.giphy.com/2DJs60IBNYZqM.gif",
+								  "https://i.giphy.com/WQiutu8TgrdHq.gif",
+								  "https://i.giphy.com/7FqjJlEcDbx1C.gif",
+								  "https://i.giphy.com/gUYoxJBAEq4kE.gif",
+								  "https://i.giphy.com/IQ7h5TiVXJWc8.gif",
+								  "https://i.giphy.com/JHZnobRBLWIcE.gif",
+								  "https://i.giphy.com/sY7e3IbqdADWE.gif",
+								  "https://i.giphy.com/FkqkHAhFkH2Rq.gif",
+								  "https://i.giphy.com/CSF4vlifBruwM.gif",
+								  "https://i.giphy.com/N6RImS22bTwyc.gif",
+								  "https://i.giphy.com/C6mpEBnVlzPIQ.gif");
                   $randIndex = rand(0,count($imgsrc)-1);
                ?>
                 <img src="<?php echo $imgsrc[$randIndex]; ?>" style="box-shadow: 0px 0px 100px 0px;color: rgb(176, 190, 197);">
