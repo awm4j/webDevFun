@@ -43,11 +43,10 @@
               <?php
                   $imgsrc = array("https://38.media.tumblr.com/8c3249afb41b36992742b878ec61db1c/tumblr_inline_nem76itX7K1s27rpx.gif",
                                   "https://table4oneblog.files.wordpress.com/2013/12/29683-emma-stone-no-no-no-gif-xks5.gif",
-                                  "http://mrwgifs.com/wp-content/uploads/2013/11/Its-A-Trap-Emma-Stone-Gif.gif",
                                   "https://media.giphy.com/media/mfO6HGWW8KZEc/giphy.gif",
                                   "https://media.giphy.com/media/sVZwCKdihacRW/giphy.gif",
                                   "https://media.giphy.com/media/H1HD23YaZqLRK/giphy.gif",
-                                  "http://ak-hdl.buzzfed.com/static/2014-08/20/13/enhanced/webdr06/anigif_enhanced-28363-1408555408-35.gif",
+                                  "https://ak-hdl.buzzfed.com/static/2014-08/20/13/enhanced/webdr06/anigif_enhanced-28363-1408555408-35.gif",
                                   "https://bookishandawesome.files.wordpress.com/2015/03/emma-stone-03.gif?w=400&h=225",
 								  "https://i.giphy.com/dYM1bHuaLiquQ.gif",
 								  "https://i.giphy.com/2DJs60IBNYZqM.gif",
